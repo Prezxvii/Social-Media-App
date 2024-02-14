@@ -8,3 +8,6 @@
 
 
 <img width="1440" alt="Screenshot 2024-02-14 at 6 55 36 PM" src="https://github.com/Prezxvii/Social-Media-App/assets/122589070/f2a3c495-ac95-45e7-9567-a516a576b2a4">
+
+
+<img width="1179" alt="Screenshot 2024-02-14 at 6 57 19 PM" src="https://github.com/Prezxvii/Social-Media-App/assets/122589070/e6bca988-e427-4f29-befd-9efa87d59c4b">
